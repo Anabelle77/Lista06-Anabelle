@@ -1,3 +1,5 @@
+//3. Faca um programa q leia n valores reais. Armazene estes valores num vetor. Ao final, imprima a média aritmética destes valores.
+
 #include <stdio.h>
 
 int main() {
