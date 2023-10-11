@@ -1,3 +1,6 @@
+//2. Armazene num vetor de 5 posições o salário de 5 pessoas. Se o salário for menor q 1000 reais,
+//forneça um aumento de 10% e sobrescreva o valor antigo. Ao final, mostre a lista de salários atualizada.
+
 #include <stdio.h>
 
 int main() {
