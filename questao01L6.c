@@ -1,3 +1,5 @@
+//1. Faça um algoritmo que leia 10 salários. Depois de lidos e armazenados, mostre o maior valor. Utilize vetores.
+
 #include <stdio.h>
 
 int main() {
