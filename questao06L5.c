@@ -1,3 +1,9 @@
+//5. Faca um algoritmo q leia e armazene 5 valores inteiros em um vetor Vet1. Leia outros 5 valores inteiros e armazene num vetor Vet2. A partir destes valores lidos, mostre na tela:
+// - a soma dos elementos de cada vetor, nas respectivas posições
+// - a diferença dos elementos de cada vetor, nas respectivas posições
+// - o produto dos elementos de cada vetor, nas respectivas posições
+// - a divisão entre os elementos de cada vetor, nas respectivas posições
+
 #include <stdio.h>
 
 int main() {
